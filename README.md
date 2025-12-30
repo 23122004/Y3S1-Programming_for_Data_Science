@@ -1,4 +1,4 @@
-# Programming for Data Science (CSC14119)
+# Programming for Data Science
 
 This repository contains the coursework, laboratory sessions, and research projects developed during my **Year 3, Semester 1** at **VNU-HCM University of Science (HCMUS)**. This course is an English-intensive module (60% English) focused on mastering the technical stack required for modern data science.
 
@@ -50,3 +50,4 @@ The course is structured around ~180 hours of total workload, covering:
 ---
 
 > **Note:** This repository serves as a portfolio of my growth in Data Science. Feel free to explore the code and documentation!
+
